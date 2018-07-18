@@ -1,2 +1,13 @@
-number=input("Please Enter Name: ")
-print(number.lower())
+if 0:
+        print "IF STATEMENT"
+else:
+    print "ELSE STATEMENT"    
+        print "ELSE STATEMENT"    
+
+
+        print "ELSE STATEMENT"    
+        print "ELSE STATEMENT"    
+        print "ELSE STATEMENT"    
+        print "ELSE STATEMENT"    
+        print "ELSE STATEMENT"   
+
