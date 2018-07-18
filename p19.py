@@ -1,6 +1,0 @@
-print "2+2={}".format(2+2)
-print ("2-2={}".format(2-2))
-print ("2*2={}".format(2*2))
-print ("2/2={}".format(2/2))
-print ("3%2={}".format(3%2))
-print ("3**2={}".format(3**2))
