@@ -5,6 +5,6 @@ def find_factorial(n):
 
     print("Factorial of ", n ," = ", fact)
 
-n = int(input("Enter no. to find factorial"))
+n = int(input("Enter no. to find factorial: "))
 
 find_factorial(n)
