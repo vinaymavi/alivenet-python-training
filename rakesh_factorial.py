@@ -1,10 +1,10 @@
 #Write a program which can compute the factorial of a given numbers.
 #The results should be printed in a comma-separated sequence on a single line
 
-def fact(x):
-    if x == 0:
-        return 1
-    return x * fact(x - 1)
-
-x=int(raw_input())
-print(fact(x))
+number=int(input("Please Enter factorial Number: "))
+j=1
+fact = 1
+for i in range(number,0,-1): 
+	fact =fact*i
+	
+print(fact)	
