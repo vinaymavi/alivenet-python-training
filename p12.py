@@ -1,5 +1,6 @@
 def sum(num1,**numnbers):
-    total = num1    
+    total = num1
+    print numnbers    
     if len(numnbers)>0:
         for key in numnbers:
             print key
